@@ -1,0 +1,36 @@
+input[name="email"] {
+    margin-left:29px ;
+}
+
+.email-login {
+    margin-bottom: 15px;
+}
+
+.card-login {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 30px;
+}
+
+.login-form {
+    position: absolute;
+    left: calc(50% - 220px);
+}
+
+.btn-login {
+    width: 100px;
+    height: 40px;
+    border: none;
+    background: #345df3;
+    color: #fff;
+    border-radius: 5px;
+    float: inline-end;
+}
+
+.card-end {
+    float: inline-end;
+}
+
+.card-body {
+    margin: 10px auto;
+}
